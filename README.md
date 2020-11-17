@@ -27,10 +27,7 @@ s = s + 1
 print(s)
 ```
 
-`# s = int(input('Enter:'))
-# s = s + 1
-# print(s)
-`
+`#s = int(input('Enter:'))#s = s + 1#print(s)`
 
 #### 表格
 
