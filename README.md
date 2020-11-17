@@ -17,7 +17,7 @@
 
 ## 网址
 
-！[雪梨教育]（http://www.edu2act.cn）
+[雪梨教育]（http://www.edu2act.cn）
 
 ### 代码
 
